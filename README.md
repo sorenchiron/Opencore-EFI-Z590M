@@ -1,6 +1,10 @@
 # Opencore-EFI-Z590M
 colorful CVN z590m with rx580 gpu
 
+![](z590m-layout.png)
+
+![](z590m-overshot.JPG)
+
 # Who to use?
 
 - Colorful CVN z590m mother board (also for the "forzen" version)
