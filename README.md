@@ -11,6 +11,8 @@ colorful CVN z590m with rx580 gpu
 - 10th generation Intel cpu coded `Cometlake`
 - UHD-630 integrated graphic processor
 - AMD RX 580 dedicated graphic card
+- Ventura recommended as has been tested.
+- Theoretically support from Mac OS 11.0.1 to newer (Bigsur,Monterey,Ventura,Sonoma)
 
 
 # How to use?
